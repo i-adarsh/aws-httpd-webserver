@@ -16,7 +16,7 @@ sudo yum install -y httpd git
 `Step 3:` Clone web-server repository
 
 ```sh
-git clone [https://github.com/i-adarsh/aws.git](https://github.com/i-adarsh/aws-httpd-webserver.git)
+git clone https://github.com/i-adarsh/aws-httpd-webserver.git
 ```
 
 `Step 4:` Move the web-server files to the hosting directory
