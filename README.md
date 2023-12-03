@@ -22,7 +22,7 @@ git clone https://github.com/i-adarsh/aws-httpd-webserver.git
 `Step 4:` Move the web-server files to the hosting directory
 
 ```sh
-cd aws/02-configure-web-server/
+cd aws-httpd-webserver/
 sudo mv ./* /var/www/html/
 ```
 
